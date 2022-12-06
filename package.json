@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/RafatAiub/Rafa-Coin/issues"
   },
-  "homepage": "https://github.com/RafatAiub/Rafa-Coin#readme"
+  "homepage": "https://github.com/RafatAiub/Rafa-Coin#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
 }
